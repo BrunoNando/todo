@@ -1,0 +1,12 @@
+{
+    "title": "Lista de tarefas",
+    "someComponent": {
+        "text": "Algum texto"
+    },
+    "statusComponent": {
+        "checked": "Verificado",
+        "item": "Nome",
+        "status": "Realizado",
+        "Del": "Editar/Excluir"
+    }
+}

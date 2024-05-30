@@ -1,0 +1,12 @@
+{
+    "title": "Task List",
+    "someComponent": {
+        "text": "Some Text"
+    },
+    "statusComponent": {
+        "checked": "Checked",
+        "item": "Name",
+        "status": "Status",
+        "Del": "To edit/Delete"
+    }
+}
